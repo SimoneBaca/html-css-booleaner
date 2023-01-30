@@ -1,57 +1,73 @@
-.logo{
+.logo {
 
-   background-image:url(pattern.png) ;
-   background-color: blue;
-   height: 100px;
-   width: 1400px;
+    background-image: url(pattern.png);
+    background-color: blue;
+    height: 100px;
+    width: 1400px;
 }
 
-.textdata{
-color: gray;
+.textdata {
+    color: gray;
 }
 
-.autore{
-color: blue;
+.autore {
+    color: blue;
 }
 
-th{
-color: white;
-background-color: blue;
+th {
+    color: white;
+    background-color: blue;
 }
-.prima{
+
+.prima {
     background-color: lightblue;
 }
-.terza{
+
+.terza {
     background-color: lightblue;
 }
-.giallo{
+
+.giallo {
     background-color: yellow;
 }
-h3{color: gray;
-}
-h4{
-    
-    background-image: url(monitor.jpg);
-    color:white;
-    font-size: 140%;
-    font-weight: normal;
-    text-align:center;
-     width: 240px;
-    height: 150px;
-    
-    
+
+h3 {
+    color: gray;
 }
 
-.secondoh{
-    background-image:url(graph.jpg);
-    color:white;
+h4 {
+
+    background-image: url(monitor.jpg);
+    color: white;
     font-size: 140%;
     font-weight: normal;
-    text-align:center;
-     width: 240px;
-    height: 150px;
-    
-}
-body{
     text-align: center;
+    width: 240px;
+    height: 150px;
+
+
+}
+
+.secondoh {
+    background-image: url(graph.jpg);
+    color: white;
+    font-size: 140%;
+    font-weight: normal;
+    text-align: center;
+    width: 240px;
+    height: 150px;
+
+}
+
+
+main {
+    margin-left: 15%;
+}
+
+footer {
+    margin-left: 15%;
+}
+
+.testa {
+    margin-left: 15%;
 }
