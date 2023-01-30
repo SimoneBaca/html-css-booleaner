@@ -1,5 +1,19 @@
 .logo{
-    width:300px;
-    background-image:pattern.png;
-  
+    
+   background-image:url(pattern.png) ;
+   color: lightblue;
+
+}
+
+.textdata{
+color: gray;
+}
+
+.autore{
+color: blue;
+}
+
+th{
+color: white;
+background-color: blue;
 }
