@@ -1,8 +1,9 @@
 .logo{
-    
-   background-image:url(pattern.png) ;
-   color: lightblue;
 
+   background-image:url(pattern.png) ;
+   background-color: blue;
+   height: 100px;
+   width: 1400px;
 }
 
 .textdata{
